@@ -12,7 +12,7 @@
 
 ## What is this?
 
-A **Phalaenopsis** (moth orchid) lives in an **IKEA ÅKERBÄR** greenhouse cabinet on the veranda. Three sensors watch its air, soil and light all day and night. A small Wi-Fi board sends the readings to a **Raspberry Pi 4** inside the house. The Pi saves them, draws charts, and shows the latest numbers on a small **Inky pHAT** e-ink screen.
+A **Phalaenopsis** (moth orchid) lives in an **IKEA ÅKERBÄR** greenhouse cabinet on the veranda, at least sometimes. Three sensors watch its air, soil and light all day and night. A small Wi-Fi board sends the readings to a **Raspberry Pi 4** inside the house. The Pi saves them, draws charts, and shows the latest numbers on a small **Inky pHAT** e-ink screen.
 
 **Why?** A Phalaenopsis usually needs a few weeks of **cool nights (about 13–16 °C)** before it starts a new flower spike. The Pi counts those nights, so we know whether the orchid is getting what it needs, and it warns us if it ever gets too cold (below 10 °C).
 
