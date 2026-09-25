@@ -101,7 +101,7 @@ All sensors share one I²C bus. Each one has its own address, so they don't get 
 
 ```
 Devices found: ['0x23', '0x36', '0x77']
-AIR:   OK   temp = 16.2 C   humidity = 71 %
+AIR:   OK   temp = 16.2 C/ or F   humidity = 71 %
 SOIL:  OK   moisture = 580
 LIGHT: OK   light = 8420 lux
 ```
