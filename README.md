@@ -92,7 +92,7 @@ All sensors share one I²C bus. Each one has its own address, so they don't get 
 
 ---
 
-## Quick start
+## Quick start (Word document has very detailed step by step instructions)
 
 1. **Install CircuitPython** on the Feather from [circuitpython.org](https://circuitpython.org/board/adafruit_feather_esp32s2/). If drag-and-drop gives errors on macOS, use **Open Installer** in Chrome.
 2. **Copy the 5 libraries** into `CIRCUITPY/lib/`.
